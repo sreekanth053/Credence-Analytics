@@ -5,22 +5,16 @@ This is a simple Node.js API project that provides endpoints to fetch a list of 
 
 ## Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sreekanth053/my-books-api.git
-   ```
-
-2. **Navigate to the project directory:**
+**Navigate to the project directory:**
    ```bash
    cd my-books-api
    ```
 
-3. **Install dependencies:**
+**Install dependencies:**
    ```bash
    npm install
    ```
-
-4. **Start the server:**
+**Start the server:**
    ```bash
    node server.js
    ```
