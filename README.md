@@ -18,7 +18,7 @@ This is a simple Node.js API project that provides endpoints to fetch a list of 
    ```bash
    node server.js
    ```
-   The server will run on http://localhost:3000/.
+   The server will run on [http://localhost:3000/] --> (http://localhost:3000/books/).
 
 ## API Endpoints
 
